@@ -1,2 +1,4 @@
 message from new branch
 master branch
+
+new changes
